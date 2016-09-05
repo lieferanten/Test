@@ -26,5 +26,10 @@ namespace App1
         {
             this.InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

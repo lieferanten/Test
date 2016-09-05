@@ -9,6 +9,8 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="108" Margin="66,115,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="222"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="118" Margin="66,254,0,0" TextWrapping="Wrap" Text="ReDesign" VerticalAlignment="Top" Width="222" TextChanged="textBox1_TextChanged"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Margin="66,413,0,0" TextWrapping="Wrap" Text="TB Redesign22" VerticalAlignment="Top" Height="74" Width="222"/>
 
     </Grid>
 </Page>
